@@ -1,0 +1,238 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+main {
+    display: block;
+}
+.hr{
+    margin-left: 410px;
+}
+nav {
+display:flex;
+padding-bottom: 5px;
+gap: 200px;
+padding: 30px;
+font-size: 18px;
+
+}
+.gap {
+    margin-left: 400px;
+    padding: 10px;
+}
+.c {
+    text-decoration: none;
+
+}
+.b{
+    text-decoration:none ;
+}
+
+.one {
+    background-color: transparent;
+    border: none;
+}
+.two {
+    margin-left: 100px;
+    background-color:
+    #CE2D2D;
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.t{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+color:
+#B32727;
+}
+.c{
+    margin-inline-start: 10px;
+}
+.d {
+padding: 10px;
+background-color: 
+#E03131;
+border-radius: 100px;
+    text-decoration: none;
+    color: 
+    #FFFFFF;
+    
+}
+.e{
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 100px;
+        text-decoration: none;
+        color: 
+        #B32727;
+        border: 1px solid 
+    #B32727;
+}
+.f{
+    padding: 10px;
+    background-color: 
+    #FFFFFF;
+    border-radius: 100px;
+        text-decoration: none;
+        color: 
+        #B32727;
+        border: 1px solid 
+        #B32727;
+    }
+
+.g{
+    padding: 10px;
+    background-color: 
+    #FFFFFF;
+    border-radius: 100px;
+        text-decoration: none;
+        color: 
+        #B32727;
+        border: 1px solid 
+        #B32727;
+    }
+
+.h{
+    padding: 10px;
+    background-color: 
+    #FFFFFF;
+    border-radius: 100px;
+        text-decoration: none;
+        color:#B32727 ;
+        border: 1px solid 
+        #B32727;
+    }
+
+.topic{
+    color: #29292C;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    
+}
+
+.topicpara{
+    color: #29292C;
+    width: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+
+.section1{
+    margin-left: 400px;
+    padding: 10px;
+
+}
+.border{
+
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 5px;
+    width: 100px;
+    margin-left: 200px;
+    text-align: center;
+    background-color: red;
+}
+.border p {
+    text-transform: capitalize;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.section2 h2{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    
+}
+.section2 p{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 700px;
+    margin-left: 8px;
+}
+
+.section2 small{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.section2 p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.section2{
+    margin-left: 400px;
+    padding: 10px;
+    
+}
+.section3{
+    margin-left: 400px;
+    padding: 10px;
+    
+}
+
+.section3 div input[type="text"] {
+    width: 500px;
+    height: 30px;
+}
+
+.section3 div input[type="submit"] {
+
+    height: 35px;
+    background-color: #c30000;
+    color: black;
+    border-radius: 100px;
+}
+
+.section3 div{
+    background-color: #0000006b;
+    width: 700px;
+    height: 200px;
+    padding-left: 20px;
+
+}
+
+.section3 div h1{
+    font-size: 40px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.small {
+color: #c30000;
+margin-left: 8px;
+}
+.sec{
+    margin-left: 8px;
+}
+.start{
+    color: 
+    #29292C;
+    background-color: #FFFFFF;
+    font-size: 30px;
+    font-family: "Segoe UI"
+"Lucida Grande"
+"Helvetica Neue";
+text-decoration: none;
+}
+
+
+.an{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#c30000;
+    letter-spacing: 10px;
+    text-decoration: none;  
+}
